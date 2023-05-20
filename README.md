@@ -2,7 +2,7 @@
 
 Одностраничный лендинг с адаптивной версткой на гридах
 
-https://vladmikhalev.github.io/skillbox-landing/
+https://vladmikhalev.github.io/grid-landing/
 
 Используемые технологии:
 - HTML
